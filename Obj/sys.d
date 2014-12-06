@@ -1,0 +1,11 @@
+..\Obj\sys.o: ..\User\sys.c
+..\Obj\sys.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\Obj\sys.o: ..\Libraries\CMSIS\Core\CM3\core_cm3.h
+..\Obj\sys.o: d:\Keil\ARM\RV31\INC\stdint.h
+..\Obj\sys.o: ..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+..\Obj\sys.o: ..\User\stm32f10x_conf.h
+..\Obj\sys.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\Obj\sys.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\Obj\sys.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\Obj\sys.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\Obj\sys.o: ..\User\sys.h

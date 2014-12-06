@@ -1,0 +1,12 @@
+..\Obj\usart.o: ..\User\USART.c
+..\Obj\usart.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\Obj\usart.o: ..\Libraries\CMSIS\Core\CM3\core_cm3.h
+..\Obj\usart.o: d:\Keil\ARM\RV31\INC\stdint.h
+..\Obj\usart.o: ..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
+..\Obj\usart.o: ..\User\stm32f10x_conf.h
+..\Obj\usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\Obj\usart.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
+..\Obj\usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\Obj\usart.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\Obj\usart.o: d:\Keil\ARM\RV31\INC\stdio.h
+..\Obj\usart.o: ..\User\USART.h
